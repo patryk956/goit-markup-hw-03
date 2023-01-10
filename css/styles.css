@@ -103,6 +103,7 @@ h4 {
   line-height: 1.36;
   text-align: center;
   color: var(--third-color);
+  padding-bottom: 30px;
 }
 .button-main {
   cursor: pointer;
@@ -150,7 +151,7 @@ h4 {
 
 /* block-3 */
 
-.teammates-person img:not(:first-child) {
+.picture img:not(:first-child) {
   padding-left: 30px;
 }
 .picture {
