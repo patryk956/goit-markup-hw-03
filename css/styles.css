@@ -316,7 +316,7 @@ h4 {
   border-bottom: 1px solid #eeeeee;
 }
 .portfolio-headers {
-  padding-left: 24px
+  padding-left: 24px;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -324,7 +324,7 @@ h4 {
   letter-spacing: 0.06em;
 }
 .portfolio-img-description {
-  padding-left: 24px
+  padding-left: 24px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
